@@ -1,0 +1,5 @@
+name: FruityHub
+version: 1.0
+author: ShineLoliMC
+main: io.shine.fruityhub.FruityHub
+depends: ["FruityAPI"]
